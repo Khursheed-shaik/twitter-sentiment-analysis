@@ -20,5 +20,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Live App
-<your streamlit link>
+https://twitter-sentiment-analysis-nqinfdrsnomw54zpp6rk5l.streamlit.app/
+
+
 
